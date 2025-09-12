@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
       builder: (context, child) {
         return MaterialApp(
           debugShowCheckedModeBanner: false,
-          title: 'Rentify Notifiction',
+          title: 'Rentify Notification',
           home: child,
         );
       },
