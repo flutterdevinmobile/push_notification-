@@ -1,0 +1,15 @@
+{
+  "splash_title": "Maybe we should write some kind of motto here or just delete this text.",
+  "welcome": "Welcome!",
+  "log_in_desc": "Log in using your phone number and start using the app",
+  "phone_number": "Phone number",
+  "continue": "Continue",
+  "without_registration": "Continue without registration",
+  "empty_field": "Empty field",
+  "invalid_format": "Invalid format",
+  "search_placeholder": "Search by location, address or object",
+  "home": "Home",
+  "Catalog": "Catalog",
+  "Messages": "Messages",
+  "Profile": "Profile"
+}

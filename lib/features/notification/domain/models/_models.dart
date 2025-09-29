@@ -1,1 +1,1 @@
-// TODO Implement this library.
+export 'notification_model.dart';
