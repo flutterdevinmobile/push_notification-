@@ -1,16 +1,21 @@
-# rentify_nitification
+<div align="center">
 
-A new Flutter project.
+# 📲 Flutter Push Notifications & Deep Linking Module
 
-## Getting Started
+[![Flutter](https://img.shields.io/badge/Flutter-FCM-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Firebase](https://img.shields.io/badge/Firebase-Cloud%20Messaging-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 
-This project is a starting point for a Flutter application.
+**Production-ready Firebase Cloud Messaging (FCM) and Local Notifications architecture for Flutter iOS & Android applications.**
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Key Features
+
+- 🔔 **Foreground, Background & Terminated State Handling:** Reliable message routing across all app lifecycle states.
+- 🔗 **Payload Deep Linking:** Automatic navigation to target screens based on notification data payloads.
+- 📢 **High-Importance Notification Channels:** Custom sound, badge, and priority channels for Android & iOS APNs.
+
+---
+<p align="center">Engineered by <a href="https://github.com/flutterdevinmobile">Abduqahhor Abduganiyev</a> @ <a href="https://github.com/dewibeuz">DEWIBE</a></p>
